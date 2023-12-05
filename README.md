@@ -1,4 +1,4 @@
-# Sergii Pryima
+## Hi there, I'm Sergii.
 
 ## Software Engineer | Entrepreneur | Machine Learning Enthusiast
 
