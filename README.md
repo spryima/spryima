@@ -7,7 +7,7 @@
 
 ### Technical Skills
 
-- **Programming Languages:** Python 3.8+
+- **Programming Languages:** Python 3.8+, HTML, CSS
 - **Frameworks & Tools:** Django ORM, Django Rest Framework, Flask, Aiohttp, AsyncIO, FastAPI, Docker
 - **Databases:** PostgreSQL, SQLite
 - **Others:** OOP, Design Patterns, TDD, SOLID, DRY principles, Machine Learning, Web Scraping, Data Analysis, Multiprocessing
