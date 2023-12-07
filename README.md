@@ -14,6 +14,6 @@
 
 ---
 
-Driven by an insatiable curiosity, I have a deep passion for delving into advanced technologies and keeping pace with the evolving landscape of engineering. My expertise goes beyond mere technical skills, encompassing a keen understanding of how technology can enhance user experiences. I thrive on tackling complex challenges and crafting efficient, maintainable solutions that anticipate future challenges and create meaningful impact..
+Driven by curiosity, I have a deep passion for delving into advanced technologies and keeping pace with the evolving landscape of engineering. My expertise goes beyond mere technical skills, encompassing a keen understanding of how technology can enhance user experiences. I thrive on tackling complex challenges and crafting efficient, maintainable solutions that anticipate future challenges and create meaningful impact..
 
 
