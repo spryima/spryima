@@ -1,7 +1,6 @@
-  ## Hi there, I'm Sergii.
+## Hi there, I'm Sergii.
 
-## Software Engineer | Entrepreneur | Machine Learning Enthusiast
-
+## Software Engineer &nbsp;&nbsp;|&nbsp;&nbsp; Entrepreneur &nbsp;&nbsp;|&nbsp;&nbsp; Machine Learning Enthusiast
 
 ---
 
