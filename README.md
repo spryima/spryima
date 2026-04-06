@@ -1,9 +1,8 @@
 
 
-Entrepreneur &nbsp;&nbsp;|&nbsp;&nbsp; AI Enthusiast
+Commercial & Operations Leader &nbsp;&nbsp;|&nbsp;&nbsp; Technology business builder
 
 ---
 
-Driven by curiosity, I have a deep passion for delving into advanced technologies and keeping pace with the evolving landscape of engineering. 
-
-
+Technical curiosity and hands-on exploration.
+linkedin.com/in/spryima
